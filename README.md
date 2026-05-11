@@ -29,7 +29,7 @@ Using telehealth visit data, this analysis explores how operational factors, tec
 
 
 
-### data cleaning
+## 1.data cleaning
 - **Duplicates**
     - Checked for duplicate records and confirmed true duplicates.
     - Removed duplicates, reducing the dataset from 5,100 to 5,000 rows.
@@ -51,7 +51,7 @@ Using telehealth visit data, this analysis explores how operational factors, tec
     - Inspected each column individually to confirm correctness and consistency.
 
 
- ### data transformation
+ ## 2.data transformation
 To make the dataset easier to analyze, continuous numerical variables were grouped into categories using Excel IF formulas. The transformed variables included Age, Wait Time, and Visit Duration.
 
 Age was grouped into ranges such as 18–24, 25–34, 35–44, and above.
