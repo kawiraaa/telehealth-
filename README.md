@@ -62,6 +62,7 @@ Excel IF formulas were used to automatically assign each record to its appropria
 
 These transformations helped simplify the dataset, improve analysis, and make patterns easier to identify during visualization
 
+
  
  
 
