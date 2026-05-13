@@ -227,7 +227,7 @@ Business Insights: We should make sure the mobile and tablet versions are just a
 
 ## Type of Visit and Time Spent
 ![type of visit vs satisfaction](visit_type_vs_sat.png)
-![visit duration vs satisfaction](visit_duration_vs_satisfcation.png)
+![visit duration vs satisfaction](visit_duration_vs_satisfaction.png)
 
 
 Findings: Chat visits had the highest satisfaction (3.3) compared to video or phone. How long the visit lasted didn't change satisfaction much, though shorter visits were slightly more popular.
