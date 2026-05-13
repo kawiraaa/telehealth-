@@ -194,51 +194,48 @@ The statistics helped identify:
 
 ## spotting patterns and relationships
 
-### 1. The "Threshold of Frustration" (Wait Times)
+## overall satisfaction
+satisfaction image
+Findings: Most people gave a middle-of-the-road score of 3 (2,124 patients). While many gave a 4, very few people gave a perfect 5.
 
-- **The Pattern:** There is a "safe zone" under 20 minutes where almost all 4 and 5-star ratings live. Once wait times cross the 40-minute mark, the "Satisfaction 5" category disappears entirely.
-- **The Relationship:** Satisfaction is not just "lower" with long waits; it becomes **capped**. No matter how good the doctor is, a long wait creates a "satisfaction ceiling" that the provider cannot break through.
+Interpretation: The service works, but it isn't "wowing" most patients yet.
 
-### 2. The "Quality Compensation" Effect (Tech vs. Score)
+Business Insights: We have a lot of "okay" experiences that need to be turned into "great" experiences to keep people coming back.
 
-- **The Pattern:** The median satisfaction for "Poor" internet is nearly identical to "Good" internet.
-- **The Relationship:** This suggests a **compensatory relationship**. Patients likely view technical glitches as a "platform flaw" rather than a "provider flaw." If the medical advice is sound, they are willing to overlook a frozen screen or a dropped call, provided the value of the consultation remains high.
+## the impact of waiting
+wait time vs satisfaction
+Findings: Patients who waited less than 10 minutes were the only ones who gave perfect scores. Once the wait passed 15 minutes, the high scores disappeared completely.
 
-### 3. The "Outcome over Output" Rule (Duration)
+Interpretation: People choose telehealth for speed. If they have to wait, the main benefit of the service is lost.
 
-- **The Pattern:** You have 5-star ratings for 5-minute visits and 1-star ratings for 40-minute visits.
-- **The Relationship:** There is **no correlation** between time spent and perceived value. In telehealth, "more" is not "better." This confirms that patients are seeking **efficiency**. A long visit might actually indicate a frustrating technical struggle or a complex issue, whereas a quick, decisive visit fulfills the "mobile" promise of the brand.
+Business Insights: We must keep wait times under 15 minutes to keep patients happy.
 
-### 4. Modality & Specialty Neutrality
+## technology and devices
+internet quality and device used
 
-- **The Pattern:** The bars are almost perfectly level (around 3.2).
-- **The Relationship:** This indicates **service consistency**. The "Doctor on Mobile" experience is stable regardless of whether the patient is seeing a Pediatrician or a Dermatologist, or whether they are typing or talking. This is a "green light" for scaling because it proves the model isn't dependent on one specific niche to succeed.
+Findings: Laptops had slightly higher satisfaction scores (3.3) than phones or tablets (3.2). Interestingly, "average" internet actually had higher scores than "good" internet.
 
-## 
+Interpretation: The app works well even if the internet isn't perfect, but it seems a bit easier to use on a laptop.
 
-## Key Findings and Business Insights
+Business Insights: We should make sure the mobile and tablet versions are just as easy to use as the laptop version.
 
-### **1. The "Speed over Stability" Paradox**
+## Type of Visit and Time Spent
+visit and time spent
 
-**Insight:** Patients are surprisingly forgiving of technical glitches and poor internet quality, but they are highly intolerant of long wait times.
-**Strategic Action:** BetaHealth should prioritize **queue management and provider punctuality** over expensive infrastructure upgrades. The "convenience" of telehealth is measured by the patient in minutes saved, not pixels displayed.
+Findings: Chat visits had the highest satisfaction (3.3) compared to video or phone. How long the visit lasted didn't change satisfaction much, though shorter visits were slightly more popular.
 
-### **2. Efficiency is Not "rushing."**
+Interpretation: Patients seem to like the ease and privacy of texting/chatting with their doctor.
 
-**Insight:** Visit duration does not dictate satisfaction. A 5-minute visit can result in a "5-star" rating just as easily as a 45-minute visit.
-**Strategic Action:** Train providers on **concise, high-impact communication**. Since patients value their time, the goal should be "effective resolution" rather than "maximum time spent," allowing for higher patient throughput without sacrificing quality.
+Business Insights: We should promote the chat feature since it’s popular and likely cheaper to run
 
-### **3. Universal Scalability**
+## **Business Recommendations for Doctor on Mobile**
 
-**Insight:** The pilot performed consistently across all devices (Mobile, Laptop, Tablet) and all medical specialties.
-**Strategic Action:** The program is **highly scalable**. BetaHealth can confidently expand into different medical departments and target users with varying device access (e.g., low-bandwidth chat for rural areas) without fearing a drop in service perception.
-
-### **4. The "Golden Window" for Retention**
-
-**Insight:** To secure a 5-star rating and ensure patient "buy-in," the wait time must stay under **15 minutes**. Beyond 30 minutes, the risk of a "detractor" score (1 or 2) increases exponentially.
-**Strategic Action:** Implement an **automated alert system** for administrators when a patient has been in the digital waiting room for more than 10 minutes
-
-
+* **Improve the "Middle" Experience**: Reach out to patients who give neutral scores (3 out of 5) to learn what would turn their visit into a perfect 5.
+* **Enforce a 15-Minute Wait Limit**: Ensure doctors see patients within 10 to 15 minutes, as satisfaction drops sharply when wait times exceed this window.
+* **Optimize the Mobile Experience**: Update the phone and tablet apps to be as easy to navigate and stable as the laptop version.
+* **Prioritize the Chat Feature**: Promote "Chat" as a primary communication method since patients currently rate it higher than phone or video calls.
+* **Troubleshoot Video Friction**: Investigate whether video calls are rated lower due to technical glitches or user discomfort, and provide simple fixes for those issues.
+* **Scale to Areas with Average Internet**: Confidently expand the program to locations without high-speed fiber, as patients remain satisfied even with average connection quality.
 
  
  
