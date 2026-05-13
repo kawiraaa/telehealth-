@@ -244,8 +244,7 @@ Business Insights: We should promote the chat feature since it’s popular and l
 * **Prioritize the Chat Feature**: Promote "Chat" as a primary communication method since patients currently rate it higher than phone or video calls.
 * **Troubleshoot Video Friction**: Investigate whether video calls are rated lower due to technical glitches or user discomfort, and provide simple fixes for those issues.
 * **Scale to Areas with Average Internet**: Confidently expand the program to locations without high-speed fiber, as patients remain satisfied even with average connection quality.
-
- 
+  
  
 
 
