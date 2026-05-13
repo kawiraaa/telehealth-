@@ -200,7 +200,7 @@ The statistics helped identify:
 ## spotting patterns and relationships
 
 ## overall satisfaction
-![overall satisfaction distribution](satisfaction scores.png)
+![overall satisfaction distribution](satisfaction_scores.png)
 Findings: Most people gave a middle-of-the-road score of 3 (2,124 patients). While many gave a 4, very few people gave a perfect 5.
 
 Interpretation: The service works, but it isn't "wowing" most patients yet.
@@ -208,7 +208,7 @@ Interpretation: The service works, but it isn't "wowing" most patients yet.
 Business Insights: We have a lot of "okay" experiences that need to be turned into "great" experiences to keep people coming back.
 
 ## the impact of waiting
-![wait time vs satisfaction](wait time vs satisfaction.png)
+![wait time vs satisfaction](wait_time_vs_satisfaction.png)
 Findings: Patients who waited less than 10 minutes were the only ones who gave perfect scores. Once the wait passed 15 minutes, the high scores disappeared completely.
 
 Interpretation: People choose telehealth for speed. If they have to wait, the main benefit of the service is lost.
@@ -216,8 +216,8 @@ Interpretation: People choose telehealth for speed. If they have to wait, the ma
 Business Insights: We must keep wait times under 15 minutes to keep patients happy.
 
 ## technology and devices
-![internet quality vs satisfaction](internet quality.png)
-![device used vs satisfaction](device used.png)
+![internet quality vs satisfaction](internet_quality.png)
+![device used vs satisfaction](device_used.png)
 
 Findings: Laptops had slightly higher satisfaction scores (3.3) than phones or tablets (3.2). Interestingly, "average" internet actually had higher scores than "good" internet.
 
@@ -226,9 +226,9 @@ Interpretation: The app works well even if the internet isn't perfect, but it se
 Business Insights: We should make sure the mobile and tablet versions are just as easy to use as the laptop version.
 
 ## Type of Visit and Time Spent
-![type of visit vs satisfaction](visit type vs sat.png)
-![visit duration vs satisfaction](visit duration vs satisfcation.png)
-time spent
+![type of visit vs satisfaction](visit_type_vs_sat.png)
+![visit duration vs satisfaction](visit_duration_vs_satisfcation.png)
+
 
 Findings: Chat visits had the highest satisfaction (3.3) compared to video or phone. How long the visit lasted didn't change satisfaction much, though shorter visits were slightly more popular.
 
