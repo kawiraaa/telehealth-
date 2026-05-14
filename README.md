@@ -1,10 +1,14 @@
 # telehealth-
 
-## project overview
-Explain:
+## executive summary
 
-what the project does
-what problem it solves
+The Doctor on Mobile project evaluates BetaHealth Clinic’s telehealth pilot program to determine whether the service delivers a positive patient experience before large-scale expansion.
+
+The analysis explored how operational and technical factors—including wait times, internet quality, visit duration, and consultation methods—influence patient satisfaction during virtual healthcare visits.
+
+The findings revealed moderate overall satisfaction (average score: 3.23/5), with wait time emerging as the strongest driver of patient dissatisfaction. Satisfaction declined significantly when wait times exceeded 15 minutes, while technical issues had less impact than expected.
+
+These insights suggest that improving operational efficiency and optimizing mobile telehealth experiences could increase patient retention, improve satisfaction, and support successful program expansion.
 
 
 ## problem statement
