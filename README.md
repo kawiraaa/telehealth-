@@ -2,13 +2,13 @@
 
 ## executive summary
 
-The Doctor on Mobile is a pilot programme by BetaHealth Clinic designed to provide telehealth services to patients remotely. The purpose of this project is to determine whether the programme delivers a positive patient experience before it is expanded on a larger scale.
+The Doctor on Mobile is a pilot programme by BetaHealth Clinic designed to evaluate the effectiveness of its telehealth service before full-scale expansion.
 
-The analysis explored how operational and technical factors—including wait times, internet quality, visit duration, and consultation methods—influence patient satisfaction during virtual healthcare visits.
+The analysis examined how operational and technical factors such as wait times, internet quality, visit duration, and consultation type affect patient satisfaction. Results showed moderate overall satisfaction (3.23/5), with long wait times being the strongest factor reducing satisfaction, while technical factors had a relatively lower impact.
 
-The findings revealed moderate overall satisfaction (average score: 3.23/5), with wait time emerging as the strongest driver of patient dissatisfaction. Satisfaction declined significantly when wait times exceeded 15 minutes, while technical issues had less impact than expected.
+To improve performance before scaling, the programme should focus on reducing patient wait times, improving the mobile experience, and strengthening preferred consultation methods such as chat-based visits. Addressing neutral experiences could further improve overall satisfaction and support better patient retention during expansion.
 
-These insights suggest that improving operational efficiency and optimizing mobile telehealth experiences could increase patient retention, improve satisfaction, and support successful program expansion.
+These improvements would help increase patient retention, enhance service quality, and support a more successful expansion of the programme.
 
 ---
 
