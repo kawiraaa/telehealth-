@@ -214,15 +214,16 @@ The statistics helped identify:
 
 ## Patterns, Relationships, and Insights
 
-## 1. overall satisfaction
+### 1. overall satisfaction
 ![overall satisfaction distribution](satisfaction_scores.png)
 Findings: Most people gave a middle-of-the-road score of 3 (2,124 patients). While many gave a 4, very few people gave a perfect 5.
 
 Interpretation: The service works, but it isn't "wowing" most patients yet
 
 Business Insights: We have many "okay" experiences that need to be turned into "great" ones to keep people coming back.
+----
 
-## 2. The impact of waiting
+### 2. The impact of waiting
 ![wait time vs satisfaction](wait_time_vs_satisfaction.png)
 Findings: Patients who waited less than 10 minutes were the only ones who gave perfect scores. Once the wait passed 15 minutes, the high scores disappeared completely.
 
@@ -230,7 +231,9 @@ Interpretation: People choose telehealth for speed. If they have to wait, the se
 
 Business Insights: We must keep wait times under 15 minutes to keep patients happy.
 
-## 3. Technology and devices
+----
+
+### 3. Technology and devices
 ![internet quality vs satisfaction](internet_quality.png)
 ![device used vs satisfaction](device_used.png)
 
@@ -239,8 +242,9 @@ Findings: Laptops had slightly higher satisfaction scores (3.3) than phones or t
 Interpretation: The app works well even if the internet isn't perfect, but it seems a bit easier to use on a laptop.
 
 Business Insights: We should make sure the mobile and tablet versions are just as easy to use as the laptop version.
+----
 
-##4.  Type of Visit and Time Spent
+### 4.  Type of Visit and Time Spent
 ![type of visit vs satisfaction](visit_type_vs_sat.png)
 ![visit duration vs satisfaction](visit_duration_vs_satisfaction.png)
 
