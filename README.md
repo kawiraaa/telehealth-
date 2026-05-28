@@ -196,7 +196,6 @@ The statistics helped identify:
 - The average wait time was approximately 12 minutes.
 -However, the longest waiting time was 117 minutes, which suggests there may have been delays in service or inefficiencies in scheduling during some visits.
 
-
 #### 3. Visit Duration Patterns
 - Most consultations lasted around 20 minutes.
 - The relatively low standard deviation suggests visit durations were fairly consistent across patients.
@@ -221,6 +220,7 @@ Findings: Most people gave a middle-of-the-road score of 3 (2,124 patients). Whi
 Interpretation: The service works, but it isn't "wowing" most patients yet
 
 Business Insights: We have many "okay" experiences that need to be turned into "great" ones to keep people coming back.
+
 ----
 
 ### 2. The impact of waiting
@@ -242,6 +242,7 @@ Findings: Laptops had slightly higher satisfaction scores (3.3) than phones or t
 Interpretation: The app works well even if the internet isn't perfect, but it seems a bit easier to use on a laptop.
 
 Business Insights: We should make sure the mobile and tablet versions are just as easy to use as the laptop version.
+
 ----
 
 ### 4.  Type of Visit and Time Spent
